@@ -1,0 +1,25 @@
+{
+  "name": "seo",
+  "description": "Claude Code plugin for SEO optimization, meta tag management, and search engine optimization workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Rosehill",
+    "email": "public@danielrosehill.com",
+    "url": "https://danielrosehill.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrosehill/seo-plugin"
+  },
+  "commands": [
+    "./commands/audits/seo-audit.md",
+    "./commands/optimization/ai-friendly-seo.md",
+    "./commands/optimization/seo-optimize.md",
+    "./commands/review/seo-reviewer.md"
+  ],
+  "keywords": [
+    "misc",
+    "seo"
+  ]
+}
