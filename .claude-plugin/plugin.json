@@ -8,10 +8,7 @@
     "url": "https://danielrosehill.com"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/danielrosehill/seo-plugin"
-  },
+  "repository": "https://github.com/danielrosehill/seo-plugin",
   "commands": [
     "./commands/audits/seo-audit.md",
     "./commands/optimization/ai-friendly-seo.md",
